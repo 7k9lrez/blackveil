@@ -1,0 +1,35 @@
+2026-11-14 19:07:08 | INFO     | terminal | Interactive BLACKVEIL X session started
+2026-11-14 19:08:03 | INFO     | dispatcher | Command: api --config
+2026-11-14 19:08:06 | INFO     | dispatcher | Command: api 
+2026-11-14 19:08:19 | INFO     | dispatcher | Command: ai 
+2026-11-14 19:08:50 | INFO     | dispatcher | Command: ai config --AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg
+2026-11-14 19:09:34 | INFO     | dispatcher | Command: ai ask
+2026-11-14 19:09:42 | INFO     | dispatcher | Command: ai config AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg
+2026-11-14 19:09:48 | INFO     | dispatcher | Command: ai config
+2026-11-14 19:09:58 | INFO     | dispatcher | Command: ask 
+2026-11-14 19:10:20 | INFO     | dispatcher | Command: ai ask
+2026-11-14 19:10:24 | INFO     | dispatcher | Command: ai ask amcık
+2026-11-14 19:10:29 | INFO     | dispatcher | Command: ai config AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg
+2026-11-14 19:10:38 | INFO     | dispatcher | Command: ai config --AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg
+2026-11-14 19:11:06 | INFO     | dispatcher | Command: ai config --api-key
+2026-11-14 19:11:28 | INFO     | terminal | Interactive BLACKVEIL X session started
+2026-11-14 19:11:34 | INFO     | dispatcher | Command: ai config --api-key
+2026-11-14 19:11:38 | INFO     | dispatcher | Command: aq.ab8rn6jkokpp4v6anlj4knxzpe7jr8w_xvubquteazuqkjerfg 
+2026-11-14 19:11:46 | INFO     | dispatcher | Command: ai config --api-key
+2026-11-14 19:11:52 | INFO     | dispatcher | Command: ai ask amcık nedir
+2026-11-14 19:12:26 | INFO     | dispatcher | Command: ai ask blackveil ne için kullanabiliriz şu an ordan yazıyorum
+2026-11-14 19:13:40 | INFO     | terminal | Interactive BLACKVEIL X session started
+2026-11-14 19:13:47 | INFO     | terminal | Interactive BLACKVEIL X session started
+2026-11-14 19:14:08 | INFO     | dispatcher | Command: website local roblox.com
+2026-11-14 19:14:08 | INFO     | local_website | Starting static capture for https://roblox.com (max_files=35, max_bytes=10485760)
+2026-11-14 19:14:10 | INFO     | reports | Recorded finding BV-20261114161410-001: LOCAL_WEBSITE - Local Static Environment: roblox.com
+2026-11-14 19:41:19 | INFO     | terminal | Interactive BLACKVEIL X session started
+2026-11-14 19:41:26 | INFO     | dispatcher | Command: local 
+2026-11-14 19:41:37 | INFO     | dispatcher | Command: url 
+2026-11-14 19:41:40 | INFO     | dispatcher | Command: url check
+2026-11-14 19:41:44 | INFO     | dispatcher | Command: url check roblox.com
+2026-11-14 19:41:47 | INFO     | reports | Recorded finding BV-20261114164147-001: URL_DETECTOR - URL Check (SUSPICIOUS): roblox.com
+2026-11-14 19:42:14 | INFO     | dispatcher | Command: url local roblox.com
+2026-11-14 19:42:45 | INFO     | dispatcher | Command: website local roblox.com
+2026-11-14 19:42:45 | INFO     | local_website | Starting static capture for https://roblox.com (max_files=35, max_bytes=10485760)
+2026-11-14 19:42:47 | INFO     | reports | Recorded finding BV-20261114164247-002: LOCAL_WEBSITE - Local Static Environment: roblox.com

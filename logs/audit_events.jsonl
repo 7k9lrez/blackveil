@@ -1,0 +1,35 @@
+{"timestamp": "2026-11-14T16:07:08.629919+00:00", "level": "INFO", "module": "terminal", "message": "Interactive BLACKVEIL X session started"}
+{"timestamp": "2026-11-14T16:08:03.941244+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: api --config"}
+{"timestamp": "2026-11-14T16:08:06.653048+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: api "}
+{"timestamp": "2026-11-14T16:08:19.109191+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai "}
+{"timestamp": "2026-11-14T16:08:50.510260+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config --AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg"}
+{"timestamp": "2026-11-14T16:09:34.423343+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai ask"}
+{"timestamp": "2026-11-14T16:09:42.950976+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg"}
+{"timestamp": "2026-11-14T16:09:48.615346+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config"}
+{"timestamp": "2026-11-14T16:09:58.311597+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ask "}
+{"timestamp": "2026-11-14T16:10:20.287814+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai ask"}
+{"timestamp": "2026-11-14T16:10:24.127896+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai ask amcık"}
+{"timestamp": "2026-11-14T16:10:29.736099+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg"}
+{"timestamp": "2026-11-14T16:10:38.048161+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config --AQ.Ab8RN6JkokPP4V6AnlJ4kNxZPe7Jr8W_XVuBQUTEAzuqKjERfg"}
+{"timestamp": "2026-11-14T16:11:06.657047+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config --api-key"}
+{"timestamp": "2026-11-14T16:11:28.281249+00:00", "level": "INFO", "module": "terminal", "message": "Interactive BLACKVEIL X session started"}
+{"timestamp": "2026-11-14T16:11:34.257771+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config --api-key"}
+{"timestamp": "2026-11-14T16:11:38.929365+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: aq.ab8rn6jkokpp4v6anlj4knxzpe7jr8w_xvubquteazuqkjerfg "}
+{"timestamp": "2026-11-14T16:11:46.329567+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai config --api-key"}
+{"timestamp": "2026-11-14T16:11:52.513796+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai ask amcık nedir"}
+{"timestamp": "2026-11-14T16:12:26.202443+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: ai ask blackveil ne için kullanabiliriz şu an ordan yazıyorum"}
+{"timestamp": "2026-11-14T16:13:40.476547+00:00", "level": "INFO", "module": "terminal", "message": "Interactive BLACKVEIL X session started"}
+{"timestamp": "2026-11-14T16:13:47.411237+00:00", "level": "INFO", "module": "terminal", "message": "Interactive BLACKVEIL X session started"}
+{"timestamp": "2026-11-14T16:14:08.596937+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: website local roblox.com"}
+{"timestamp": "2026-11-14T16:14:08.598272+00:00", "level": "INFO", "module": "local_website", "message": "Starting static capture for https://roblox.com (max_files=35, max_bytes=10485760)"}
+{"timestamp": "2026-11-14T16:14:10.750399+00:00", "level": "INFO", "module": "reports", "message": "Recorded finding BV-20261114161410-001: LOCAL_WEBSITE - Local Static Environment: roblox.com"}
+{"timestamp": "2026-11-14T16:41:19.380594+00:00", "level": "INFO", "module": "terminal", "message": "Interactive BLACKVEIL X session started"}
+{"timestamp": "2026-11-14T16:41:26.910441+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: local "}
+{"timestamp": "2026-11-14T16:41:37.293430+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: url "}
+{"timestamp": "2026-11-14T16:41:40.717018+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: url check"}
+{"timestamp": "2026-11-14T16:41:44.972910+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: url check roblox.com"}
+{"timestamp": "2026-11-14T16:41:47.255794+00:00", "level": "INFO", "module": "reports", "message": "Recorded finding BV-20261114164147-001: URL_DETECTOR - URL Check (SUSPICIOUS): roblox.com"}
+{"timestamp": "2026-11-14T16:42:14.729721+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: url local roblox.com"}
+{"timestamp": "2026-11-14T16:42:45.935248+00:00", "level": "INFO", "module": "dispatcher", "message": "Command: website local roblox.com"}
+{"timestamp": "2026-11-14T16:42:45.936753+00:00", "level": "INFO", "module": "local_website", "message": "Starting static capture for https://roblox.com (max_files=35, max_bytes=10485760)"}
+{"timestamp": "2026-11-14T16:42:47.918747+00:00", "level": "INFO", "module": "reports", "message": "Recorded finding BV-20261114164247-002: LOCAL_WEBSITE - Local Static Environment: roblox.com"}
